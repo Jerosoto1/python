@@ -19,6 +19,7 @@ else:
     print("No es palindromo")
     
 #Como meter todo en un while
+<<<<<<< HEAD
 #PYTHON TUTORNombre y cómo te gusta que te digan
 
 
@@ -29,3 +30,6 @@ else:
 # ¿Cuál es tu propósito en la vida?
 # ¿Qué te hace feliz? claro que sij jas jja 
 print("hello world")
+=======
+#PYTHON TUTOR
+>>>>>>> 56a8edd0101043a2c87864229923b8528a1cf188
