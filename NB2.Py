@@ -9,4 +9,4 @@ while True:
         print("El total es:", suma)
         break
     except ValueError:
-        print("No hay error entonces ingrese un numero válido.")
+        print("Debes ingresas un numero válido.")
